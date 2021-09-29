@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "To be developer"
   location         : "South Korea"
-  email            :
+  email            : "dev.kimminji@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
